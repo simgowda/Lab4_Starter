@@ -15,7 +15,7 @@ function sumValues(num1, num2, add) {
         return result;
     }
     else {
-        return !add;
+        return false;
     }
 }
 
